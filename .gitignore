@@ -102,3 +102,7 @@ buck-out/
 
 
 apps/afterlife-e2e/artifacts
+
+# Generated Docusaurus files
+.docusaurus/
+.cache-loader/

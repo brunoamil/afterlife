@@ -9,11 +9,18 @@
   },
   "private": true,
   "dependencies": {
+    "@docusaurus/core": "2.0.0-beta.13",
+    "@docusaurus/preset-classic": "2.0.0-beta.13",
+    "@mdx-js/react": "^1.6.21",
+    "clsx": "^1.1.1",
+    "prism-react-renderer": "^1.2.1",
     "react": "18.2.0",
+    "react-dom": "^17.0.1",
     "react-native": "0.70.1",
     "tslib": "^2.3.0"
   },
   "devDependencies": {
+    "@docusaurus/module-type-aliases": "2.0.0-beta.13",
     "@nrwl/cli": "15.0.0",
     "@nrwl/detox": "15.0.0",
     "@nrwl/eslint-plugin-nx": "15.0.0",
@@ -22,6 +29,7 @@
     "@nrwl/react-native": "15.0.0",
     "@nrwl/web": "15.0.0",
     "@nrwl/workspace": "15.0.0",
+    "@nx-plus/docusaurus": "^14.1.0",
     "@react-native-async-storage/async-storage": "1.17.10",
     "@react-native-community/cli": "9.1.1",
     "@react-native-community/cli-platform-android": "9.1.0",
